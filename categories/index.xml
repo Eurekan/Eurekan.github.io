@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Eurekan</title>
+        <link>https://Eurekan.github.io/categories/</link>
+        <description>Recent content in Categories on Eurekan</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Eurekan</copyright>
+        <lastBuildDate>Mon, 11 Nov 2024 21:35:52 +0800</lastBuildDate><atom:link href="https://Eurekan.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>日常</title>
+        <link>https://Eurekan.github.io/categories/%E6%97%A5%E5%B8%B8/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Eurekan.github.io/categories/%E6%97%A5%E5%B8%B8/</guid>
+        <description>&lt;img src="https://Eurekan.github.io/categories/%E6%97%A5%E5%B8%B8/%E6%97%A5%E5%B8%B8.jpg" alt="Featured image of post 日常" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

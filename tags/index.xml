@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Eurekan</title>
+        <link>https://Eurekan.github.io/tags/</link>
+        <description>Recent content in Tags on Eurekan</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Eurekan</copyright><atom:link href="https://Eurekan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
